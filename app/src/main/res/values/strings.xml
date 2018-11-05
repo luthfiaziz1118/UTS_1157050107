@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Liga Indonesia 2018</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Liga Sepak Bola Indonesia</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutme"><![CDATA[Nama saya Muhammad Luthfi Aziz (1157050107), saya kelahiran Subang 25 Juli 1996. Saat ini saya berkuliah di UIN Sunan Gunung Djati Bandung Fakultas Sains dan Teknologi Jurusan Teknik Informatika, saya merupakan anak sulung dari 2 bersaudara anak dari pasangan suami istri ( Yayah Napsiah & Agan ). Sekarang saya tinggal di Perumahan Vijayakusuma Blok A12/14. kontak WA : 081221513741]]></string>
+    <string name="about_me">About Me</string>
+    <string name="club">Club</string>
+    <string name="vs">VS</string>
+    <string name="score">Score</string>
+</resources>
